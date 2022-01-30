@@ -1,0 +1,70 @@
+<!doctype html>
+
+	<html> 
+
+
+		<head>
+	<title>Meu site</title>
+	<meta charset="utf-8">
+
+		</head>
+
+	<body>
+
+                    <img src="https://www.revistafullpower.com.br/wp-content/uploads/2020/03/bu01.jpg" width="400">
+					<h2>THE BULGATTI</h2>
+
+			<h6>Loren ipsum dolor sit amet, consectetur adipiscing elit, Suspendisse euismod a ex faucibus semper.</h6>
+			<hr>
+			
+					<h2>Vantagens de ser cliente</h2>
+			
+			<ol type="1">
+				<li>Atendimento <b>rápido</li></b>
+				<li>Preços <b>Especiais</li></b>
+				<li>Veiculo <b>Diferenciado</li></b>
+			</ol>
+			<hr>
+
+			<p>
+Why do we use it?
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum <a href="https://www.google.com.br/"target=_blank"<a target="_blank">Google</a> normal distribution of letters, as opposed to usissar?continue=falseng 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+
+</p>
+			
+
+		
+					<h2>O que os clientes estão dizendo?</h2>
+
+					<h6><i>"Gostei demais do atendimento,foi muito rápido e com certeza irei voltar!"</i><h6><h5>Maria Almeida</h5>	
+					<hr>
+							
+				
+
+
+					<h2>Mapa do site</h2>
+
+
+			
+			<li>Home</li>
+			<li>Quem Somos</li> 
+			<li>Contato</li>
+			
+			</ol>
+
+
+
+
+	</body>
+	
+
+
+
+
+
+
+
+
+
+
+	</html>
